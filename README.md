@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Sharifuzzaman Eusuf, a self-taught developer with a deep passion for technology that started at a young age. My curiosity led me down the path of coding, and now, I get to turn my creative ideas into reality every day.<br><br>- 🔭 I’m looking for a full-time position<br>- 📚 I'm currently learning Next.JS<br>- ⚡ In my free time I'm likely hanging out with my cats.</p>
+<p align="left">I'm Sharifuzzaman Eusuf, a self-taught developer with a deep passion for technology that started at a young age. My curiosity led me down the path of coding, and now, I get to turn my creative ideas into reality every day.<br>When I'm not coding, I'm likely strolling in the afternoon or hanging out with my cats. Like them, I'm curious and always eager to learn something new in the world of development.<br><br>- 🔭 I’m looking for a full-time position<br>- 📚 I'm currently learning Next.JS<br>- ⚡ In my free time I'm likely hanging out with my cats.</p>
 
 ###
 
