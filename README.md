@@ -79,7 +79,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/sharifuzzaman24/sharifuzzaman24/output/snake.svg" alt="Snake animation" />
-
-###
