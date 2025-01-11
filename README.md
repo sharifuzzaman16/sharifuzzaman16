@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/sharifuzzaman24/sharifuzzaman24/refs/heads/main/GitHub.png"  />
+  <img height="300" src="https://raw.githubusercontent.com/sharifuzzaman16/sharifuzzaman16/refs/heads/main/GitHub.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sharifuzzaman24/" target="_blank">
+  <a href="https://www.linkedin.com/in/sharifuzzaman16/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/+8801840400534" target="_blank">
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sharifuzzaman24/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/sharifuzzaman16/count.svg?"  />
 </div>
 
 ###
@@ -75,9 +75,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharifuzzaman24&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharifuzzaman24&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sharifuzzaman24&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharifuzzaman16&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharifuzzaman16&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sharifuzzaman16&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
